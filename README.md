@@ -34,7 +34,7 @@
 ## Quickstart
 
 ```
-git clone https://github.com/Cyfrin/foundry-smart-contract-lottery-f23
+git clone https://github.com/harshaankad/foundry-smart-contract-lottery-f23
 cd foundry-smart-contract-lottery-f23
 forge build
 ```
